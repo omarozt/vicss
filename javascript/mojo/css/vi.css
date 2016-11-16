@@ -1,0 +1,13 @@
+.mojo-theme-light .gm-vis-msg-container .gm-vis-msg-vcenter .gm-vis-msg-hcenter {
+    display: none;
+}
+.mojo-theme-light .gm-vis-msg-container .gm-vis-msg-vcenter .gm-vis-msg-hcenter .gm-vis-msg-indent {
+    display: none;
+}
+
+.mstrmojo-UnitContainer .mstrmojo-UnitContainer-content .mstrmojo-message .text .warning-icon {
+    background: url(vi/images/menu_icons.png) 320px -154px
+}
+.mstrmojo-UnitContainer .mstrmojo-UnitContainer-content .mstrmojo-message .text>div {
+    display: none;
+}
